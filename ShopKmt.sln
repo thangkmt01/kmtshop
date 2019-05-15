@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KmtShop.Common", "KmtShop.Common\KmtShop.Common.csproj", "{28E88807-ED12-4384-BF97-55834995751C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KmtShop.Model", "KmtShop.Model\KmtShop.Model.csproj", "{808BFBEE-D611-4EE0-9FC6-CC2E8E807716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KmtShop.Data", "KmtShop.Data\KmtShop.Data.csproj", "{FC3031B3-7142-4FC6-937F-4CFD0923F336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KmtShop.Service", "KmtShop.Service\KmtShop.Service.csproj", "{31B4AC73-D407-4546-A4A0-31655405730E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KmtShop.UnitTest", "KmtShop.UnitTest\KmtShop.UnitTest.csproj", "{DB079681-1848-412D-8BB4-E97253C70EC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KmtShop.Web", "KmtShop.Web\KmtShop.Web.csproj", "{C5A58528-1201-410F-B15B-8336BFB55381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28E88807-ED12-4384-BF97-55834995751C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E88807-ED12-4384-BF97-55834995751C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E88807-ED12-4384-BF97-55834995751C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E88807-ED12-4384-BF97-55834995751C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808BFBEE-D611-4EE0-9FC6-CC2E8E807716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808BFBEE-D611-4EE0-9FC6-CC2E8E807716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808BFBEE-D611-4EE0-9FC6-CC2E8E807716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808BFBEE-D611-4EE0-9FC6-CC2E8E807716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3031B3-7142-4FC6-937F-4CFD0923F336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3031B3-7142-4FC6-937F-4CFD0923F336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3031B3-7142-4FC6-937F-4CFD0923F336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3031B3-7142-4FC6-937F-4CFD0923F336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B4AC73-D407-4546-A4A0-31655405730E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B4AC73-D407-4546-A4A0-31655405730E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B4AC73-D407-4546-A4A0-31655405730E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B4AC73-D407-4546-A4A0-31655405730E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB079681-1848-412D-8BB4-E97253C70EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB079681-1848-412D-8BB4-E97253C70EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB079681-1848-412D-8BB4-E97253C70EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB079681-1848-412D-8BB4-E97253C70EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A58528-1201-410F-B15B-8336BFB55381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A58528-1201-410F-B15B-8336BFB55381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A58528-1201-410F-B15B-8336BFB55381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A58528-1201-410F-B15B-8336BFB55381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
